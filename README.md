@@ -20,4 +20,5 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=white"/>
 </p>
