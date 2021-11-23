@@ -2,7 +2,7 @@
 
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heewoo0419" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heewoo0419&count_private=true" />
 </p>
 
 </br>
