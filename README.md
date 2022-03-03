@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-4479A1?style=for-the-badge&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003545?style=for-the-badge&logo=SQLite&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"/>
